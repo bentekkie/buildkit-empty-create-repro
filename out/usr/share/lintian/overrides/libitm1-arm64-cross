@@ -1,5 +1,0 @@
-libitm1-arm64-cross binary: arch-independent-package-contains-binary-or-object
-libitm1-arm64-cross binary: non-standard-dir-in-usr
-libitm1-arm64-cross binary: shlibs-declares-dependency-on-other-package
-libitm1-arm64-cross binary: postinst-has-useless-call-to-ldconfig
-libitm1-arm64-cross binary: postrm-has-useless-call-to-ldconfig

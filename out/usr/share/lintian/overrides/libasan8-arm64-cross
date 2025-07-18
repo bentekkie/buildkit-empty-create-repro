@@ -1,5 +1,0 @@
-libasan8-arm64-cross binary: arch-independent-package-contains-binary-or-object
-libasan8-arm64-cross binary: non-standard-dir-in-usr
-libasan8-arm64-cross binary: shlibs-declares-dependency-on-other-package
-libasan8-arm64-cross binary: postinst-has-useless-call-to-ldconfig
-libasan8-arm64-cross binary: postrm-has-useless-call-to-ldconfig

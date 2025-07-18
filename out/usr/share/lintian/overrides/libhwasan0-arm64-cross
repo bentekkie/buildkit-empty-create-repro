@@ -1,5 +1,0 @@
-libhwasan0-arm64-cross binary: arch-independent-package-contains-binary-or-object
-libhwasan0-arm64-cross binary: non-standard-dir-in-usr
-libhwasan0-arm64-cross binary: shlibs-declares-dependency-on-other-package
-libhwasan0-arm64-cross binary: postinst-has-useless-call-to-ldconfig
-libhwasan0-arm64-cross binary: postrm-has-useless-call-to-ldconfig
