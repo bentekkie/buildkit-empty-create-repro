@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/aarch64-linux-gnu
+/usr/aarch64-linux-gnu/lib
+/usr/aarch64-linux-gnu/lib/liblsan.so.0.0.0
+/usr/share
+/usr/share/doc
+/usr/share/lintian
+/usr/share/lintian/overrides
+/usr/share/lintian/overrides/liblsan0-arm64-cross
+/usr/aarch64-linux-gnu/lib/liblsan.so.0
+/usr/share/doc/liblsan0-arm64-cross

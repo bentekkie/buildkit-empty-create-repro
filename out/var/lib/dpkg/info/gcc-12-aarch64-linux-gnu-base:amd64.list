@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/gcc-12-aarch64-linux-gnu-base
+/usr/share/doc/gcc-12-aarch64-linux-gnu-base/README.Debian.arm64.gz
+/usr/share/doc/gcc-12-aarch64-linux-gnu-base/TODO.Debian
+/usr/share/doc/gcc-12-aarch64-linux-gnu-base/changelog.Debian.gz
+/usr/share/doc/gcc-12-aarch64-linux-gnu-base/copyright
+/usr/share/lintian
+/usr/share/lintian/overrides
+/usr/share/lintian/overrides/gcc-12-aarch64-linux-gnu-base

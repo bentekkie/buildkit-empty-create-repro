@@ -1,0 +1,10 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/gcc-12-cross-base
+/usr/share/doc/gcc-12-cross-base/changelog.Debian.gz
+/usr/share/doc/gcc-12-cross-base/copyright
+/usr/share/lintian
+/usr/share/lintian/overrides
+/usr/share/lintian/overrides/gcc-12-cross-base
